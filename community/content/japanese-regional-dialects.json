@@ -342,5 +342,12 @@
     "english": "it is that...",
     "region": "Kansai",
     "note": "Explanatory ending in conversation. (Set 1)"
-  }
+  },
+  {
+  "dialect": "にふぇーでーびる",
+  "standardJapanese": "ありがとうございます",
+  "english": "thank you",
+  "region": "Okinawa",
+  "note": "Okinawan gratitude expression. (Set 6)"
+}
 ]
